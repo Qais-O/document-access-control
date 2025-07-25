@@ -27,7 +27,7 @@ A Spring Boot application implementing a robust document access control system w
 
 ### Prerequisites
 
-- Java 24 or higher
+- Java 17 or higher
 - Maven 3.6+
 - Git
 
