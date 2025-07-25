@@ -13,7 +13,7 @@ A Spring Boot application implementing a robust document access control system w
 
 ## Technology Stack
 
-- **Java 24**
+- **Java 17**
 - **Spring Boot** - Application framework
 - **Spring Data JPA** - Data persistence
 - **Spring MVC** - Web framework
